@@ -9,15 +9,19 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Maria Luiza Sousa Montaño
+- Matrícula:925569
+- Proposta de projeto escolhida: Quiz de Filmes
+- Breve descrição sobre seu projeto: O projeto é um quiz de filmes, onde os usuários podem testar seus conhecimentos sobre cinema. Ele inclui perguntas sobre diversos gêneros, diretores, atores e enredos de filmes. O objetivo é criar uma experiência divertida e educativa para os amantes de cinema, permitindo que eles aprendam mais sobre o mundo do entretenimento enquanto se divertem.
 
 **Print da tela com a implementação**
 
-<< Coloque aqui uma breve explicação da implementação feita nesta etapa>>
+Nesta etapa, foi desenvolvida a interface do quiz de filmes com perguntas interativas e um gráfico em pizza que mostra os gêneros favoritos do usuário. O projeto utiliza `Chart.js` para renderizar o resultado visual e atualiza os caminhos dos recursos para garantir que o CSS e o JavaScript carreguem corretamente.
 
-<<  COLOQUE A IMAGEM DA TELA 1 AQUI >>
+### Captura de tela 1
 
-<<  COLOQUE A IMAGEM DA TELA 2 AQUI >>
+![Quiz de Filmes - Tela de Perguntas](imagens/Captura de tela 2026-06-19 223107.png)
+
+### Captura de tela 2
+
+![Quiz de Filmes - Resultado do Gráfico](imagens/Captura de tela 2026-06-19 223220.png)

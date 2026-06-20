@@ -1,18 +1,60 @@
 {
-  "usuarios": [
+  "filmes": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": "1",
+      "titulo": "Ação Explosiva",
+      "genero": "Ação",
+      "ano": 2022,
+      "diretor": "Fulano de Tal",
+      "sinopse": "Um filme cheio de adrenalina e perseguições."
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": "2",
+      "titulo": "Comédia Romântica",
+      "genero": "Comédia",
+      "ano": 2021,
+      "diretor": "Ciclana de Lá",
+      "sinopse": "Uma história de amor com muitas risadas."
+    },
+    {
+      "id": "3",
+      "titulo": "Drama Intenso",
+      "genero": "Drama",
+      "ano": 2023,
+      "diretor": "Beltrano",
+      "sinopse": "Um filme emocionante que explora as profundezas da alma humana."
+    },
+    {
+      "id": "4",
+      "titulo": "Ficção Científica Épica",
+      "genero": "Ficção Científica",
+      "ano": 2024,
+      "diretor": "Maria Silva",
+      "sinopse": "Viagem intergaláctica para salvar a humanidade."
+    },
+    {
+      "id": "5",
+      "titulo": "Terror Psicológico",
+      "genero": "Terror",
+      "ano": 2020,
+      "diretor": "João Souza",
+      "sinopse": "Um suspense que vai te deixar sem fôlego."
+    },
+    {
+      "id": "6",
+      "titulo": "Aventura Fantástica",
+      "genero": "Ação",
+      "ano": 2023,
+      "diretor": "Ana Costa",
+      "sinopse": "Jornada por terras mágicas e criaturas míticas."
     }
+  ],
+  "generos": [
+    { "id": "1", "nome": "Ação" },
+    { "id": "2", "nome": "Comédia" },
+    { "id": "3", "nome": "Drama" },
+    { "id": "4", "nome": "Ficção Científica" },
+    { "id": "5", "nome": "Terror" },
+    { "id": "6", "nome": "Romance" }
   ]
 }

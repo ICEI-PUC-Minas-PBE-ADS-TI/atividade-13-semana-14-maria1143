@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CineCard - Seu Quiz de Filmes</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <!-- Inclua a biblioteca Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <h1>CineCard</h1>
+        <p>Descubra seus gêneros de filmes favoritos!</p>
+    </header>
+
+    <main>
+        <section id="quiz-container">
+            <h2>Qual seu estilo de filme?</h2>
+            <div id="questions">
+                <!-- As perguntas serão carregadas aqui pelo JavaScript -->
+            </div>
+            <button id="submit-quiz" style="display: none;">Ver Resultado</button>
+        </section>
+
+        <section id="result-container" style="display: none;">
+            <h2>Seus Gêneros Favoritos</h2>
+            <div class="chart-container">
+                <canvas id="genreChart"></canvas>
+            </div>
+            <button id="restart-quiz">Fazer Quiz Novamente</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 CineCard. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="assets/scripts/app.js"></script>
+</body>
+</html>
