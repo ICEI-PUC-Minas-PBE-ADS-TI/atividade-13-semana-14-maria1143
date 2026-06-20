@@ -20,8 +20,8 @@ Nesta etapa, foi desenvolvida a interface do quiz de filmes com perguntas intera
 
 ### Captura de tela 1
 
-![Quiz de Filmes - Tela de Perguntas](imagens/Captura de tela 2026-06-19 223107.png)
+![Quiz de Filmes - Tela de Perguntas](imagens/captura-tela-1.png)
 
 ### Captura de tela 2
 
-![Quiz de Filmes - Resultado do Gráfico](imagens/Captura de tela 2026-06-19 223220.png)
+![Quiz de Filmes - Resultado do Gráfico](imagens/captura-tela-2.png)
